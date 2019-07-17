@@ -75,16 +75,6 @@ class NextBiggerController extends Controller
         }
 
 
-         
-
-        
-
-        
-
-        
-
-        
-
         return view('nbform.resultado', [
                         'resultado' => $resultado,
                         
