@@ -1,6 +1,6 @@
 # CodeChallengept2
 
-##Clonar project.
+Clonar project.
 <br>
 Instalar en Xampp > htdocs.
 <br>
